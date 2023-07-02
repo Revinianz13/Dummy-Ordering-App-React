@@ -15,7 +15,7 @@ const AvailableMeals = () => {
 
 			const response = await fetch(
 
-				'https://react-http-bbcab-default-rtdb.firebaseio.com/meals.json'
+				'https://request-58e17-default-rtdb.firebaseio.com/meals.json'
 
 			);
 
